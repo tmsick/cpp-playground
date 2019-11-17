@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "compilerPath": "/usr/local/bin/g++-9",
+            "cppStandard": "c++17",
+            "forcedInclude": [
+                "all.h"
+            ],
+            "includePath": [
+                "${workspaceRoot}"
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "name": "Mac"
+        }
+    ],
+    "version": 4
+}
